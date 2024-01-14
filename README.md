@@ -12,3 +12,8 @@ it uses:
 6. TanStack router & query for file based routing of react app and to easily manage all of the api request
 7. TailwindCSS for styling
 8. NX to easily manage the monorepo (definitely better than turborepo)
+
+how to use
+1. clone it
+2. npm install it
+3. enjoy & please leave a star if it was usefull to you
