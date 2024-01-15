@@ -16,7 +16,8 @@
     "baseUrl": ".",
     "paths": {
       "@myapp/contracts": ["libs/contracts/src/index.ts"],
-      "@myapp/db": ["libs/db/src/index.ts"]
+      "@myapp/db": ["libs/db/src/index.ts"],
+      "@myapp/web/*": ["apps/web/src/*"]
     }
   },
   "exclude": ["node_modules", "tmp"]
